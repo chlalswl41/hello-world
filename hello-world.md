@@ -1,7 +1,7 @@
 # Hello, world!
 ## About Me
-- **Name:** Gildong Hong
-- **Major:** Composition
+- **Name:** Minji Choi
+- **Major:** Public Administration
 ## A Piece of Music I Love
 *Symphony No. 5* by Ludwig van Beethoven
 ## Our Course Database
